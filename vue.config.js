@@ -6,5 +6,5 @@ module.exports = {
     host: 'localhost',
     port: '8723'
   },
-  publicPath: '/poke-list'
+  publicPath: '/'
 }
