@@ -300,6 +300,7 @@ export default {
 .poke-list-item {
   list-style-type: none;
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
   align-items: center;
   padding: 8px 4px;

@@ -4,7 +4,7 @@ module.exports = {
   ],
   devServer: {
     host: 'localhost',
-    port: '8723'
+    port: '8724'
   },
   publicPath: '/'
 }
