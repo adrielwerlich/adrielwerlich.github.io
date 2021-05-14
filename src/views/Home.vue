@@ -113,7 +113,7 @@ export default {
     setTimeout(() => {
       window.addEventListener("scroll", () => {
         if (
-          window.innerHeight + document.documentElement.scrollTop ===
+          100 + window.innerHeight + document.documentElement.scrollTop >=
           document.scrollingElement.scrollHeight
         ) {
           this.loadNext()
